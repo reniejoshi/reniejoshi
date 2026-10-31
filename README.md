@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=30&pause=100&color=89b4fa&center=true&vCenter=true&width=435&lines=Programmer;Leader;FRC+Student)](https://git.io/typing-svg)
 
-</div>
-
 I’m currently learning robotics programming in Java with Bear Metal 2046 and leading internal web dev projects.
+
+## Tech Stack
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,css,js,ts,react,vite,vercel,pnpm,arduino,raspberrypi,unity,git,github,vscode,idea,androidstudio,windows,linux,kali" alt="Tech Stack" />
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="📊" width="25" height="25" />
 
