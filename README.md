@@ -20,8 +20,11 @@ Here are some ideas to get you started:
 
 I’m currently learning robotics programming in Java with Bear Metal 2046 and leading internal web dev projects.
 
-## Tech Stack
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,css,js,ts,react,vite,vercel,pnpm,arduino,raspberrypi,unity,git,github,vscode,idea,androidstudio,windows,linux,kali" alt="Tech Stack" />
+## Favorite Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" />
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,css,js,ts,react,vite,vercel,pnpm,arduino,raspberrypi,git,github,vscode,idea,androidstudio,windows" alt="Favorite Tools" />
+
+## Currently Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" />
+<img src="https://skillicons.dev/icons?i=rust,unity,linux,kali" alt="Currently Learning" />
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="📊" width="25" height="25" />
 
