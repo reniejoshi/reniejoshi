@@ -36,9 +36,5 @@ I’m currently learning robotics programming in Java with Bear Metal 2046 and l
    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=reniejoshi&layout=compact&hide_values=true&theme=catppuccin_mocha">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=reniejoshi&layout=compact&hide_values=true&theme=catppuccin_mocha" alt="Top Langs" height="165" />
   </a>
-  <br><br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=reniejoshi&theme=catppuccin-mocha" alt="GitHub Streak" height="180" />
-  </a>
 
 </div>
