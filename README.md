@@ -25,6 +25,9 @@ I’m currently learning robotics programming in Java with Bear Metal 2046 and l
 
 ## Currently Learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" />
 <img src="https://skillicons.dev/icons?i=rust,unity,linux,kali" alt="Currently Learning" />
+<a href="https://cachyos.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cachyos.svg" alt="CachyOS" width="48" height="48" />
+</a>
 
 ## GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="📊" width="25" height="25" />
 
